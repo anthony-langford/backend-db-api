@@ -1,0 +1,26 @@
+{
+  "name": "backend-db-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthony-langford/backend-db-api.git"
+  },
+  "author": "Anthony Langford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthony-langford/backend-db-api/issues"
+  },
+  "homepage": "https://github.com/anthony-langford/backend-db-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "11.6.0"
+  }
+}
